@@ -1,6 +1,16 @@
 # Traffic counting example based on OpencCV object detection with background subtraction
 
-You can read article for this code [here](https://hackernoon.com/tutorial-making-road-traffic-counting-app-based-on-computer-vision-and-opencv-166937911660)
+I modified some code and added some new features based on existing code on github from an author.
+You can find the original author's link and tutorials from [here](https://hackernoon.com/tutorial-making-road-traffic-counting-app-based-on-computer-vision-and-opencv-166937911660)
+
+New changes and features added:
+
+Using a new video instead
+Classifying different vehicles into different categories: Car, Van, Truck
+Counting the passed vehicles for each lane
+Adding a well-organized documentation in MS Word format to complain the principles of computer vision step by step
+
+Below is the project information provided by original author:
 
 **Speed:** 10.7 FPS (with visualization) 44.5 FPS (without visualization)
 
