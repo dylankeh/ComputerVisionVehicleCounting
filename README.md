@@ -13,6 +13,7 @@ You can find the original author's link and tutorials from [here](https://hacker
 
 √ Adding a well-organized documentation in MS Word format to complain the principles of computer vision step by step
 
+
 **Speed:** 10.7 FPS (with visualization) 44.5 FPS (without visualization)
 
 ### Video visualization demo
