@@ -5,13 +5,13 @@ You can find the original author's link and tutorials from [here](https://hacker
 
 ### New changes and features added:
 
-Using a new video instead
+√ Using a new video instead
 
-Classifying different vehicles into different categories: Car, Van, Truck
+√ Classifying different vehicles into different categories: Car, Van, Truck
 
-Counting the passed vehicles for each lane
+√ Counting the passed vehicles for each lane
 
-Adding a well-organized documentation in MS Word format to complain the principles of computer vision step by step
+√ Adding a well-organized documentation in MS Word format to complain the principles of computer vision step by step
 
 **Speed:** 10.7 FPS (with visualization) 44.5 FPS (without visualization)
 
